@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vineehreddy
+- 👋 Hi, I’m @vineetreddy
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning different stack of technologies
 - 💞️ I’m looking to collaborate on web developments.
